@@ -21,3 +21,15 @@ If you're looking to enjoy delicious idlis, here are some highly recommended res
 | MTR             | Known for its traditional recipe and consistent quality. | Bangalore, Karnataka    |
 | Annapurna       | Offers a variety of idlis with unique accompaniments. | Hyderabad, Telangana    |
 | Udupi Krishna   | Renowned for its delicious idlis and quick service. | Mumbai, Maharashtra     |
+
+---
+
+###### Favorite Quotes
+
+Here are a couple of jokes that always bring a smile:
+
+> "I am on a seafood diet. I see food and I eat it."  
+> _Anonymous_
+
+> "A day without sunshine is like, you know, night."  
+> _Steve Martin_
