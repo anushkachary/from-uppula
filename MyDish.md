@@ -33,3 +33,25 @@ Here are a couple of jokes that always bring a smile:
 
 > "A day without sunshine is like, you know, night."  
 > _Steve Martin_
+
+---
+
+###### Dart Code Snippet
+
+This Dart code snippet demonstrates the use of the ternary operator to conditionally execute a function. In the main() function, it defines a constant someValue with a value of 3. It then uses the ternary operator to choose between two functions, func1 and func2, based on the condition someValue == 4. If the condition is true, func1 is called; otherwise, func2 is called. Since someValue is 3 (not equal to 4), func2 is called, and the output will be "func 2 called".
+
+```
+void func1(){
+ print("func 1 called");
+}
+
+void func2(){
+ print("func 2 called");
+}
+
+void main() {
+ const someValue = 3;
+ (someValue == 4? func1 : func2)();
+}
+```
+Source Link: https://code.pieces.app/collections/dart
